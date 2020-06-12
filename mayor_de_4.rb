@@ -23,7 +23,7 @@ if valor0 >= valor1
                 puts valor3
             end
         end
-    else
+else
         if valor1 >= valor2
                 valor2 = valor1
             if valor2 >= valor3
